@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495407351094",
+    "firebase_url": "https://dondeestaxur.firebaseio.com",
+    "project_id": "dondeestaxur",
+    "storage_bucket": "dondeestaxur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495407351094:android:69a7be5f654137be54df97",
+        "android_client_info": {
+          "package_name": "com.latirus.dondeestaxur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495407351094-qlnihe92np5nupo4d92hvnks5ifmmr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNV9aoblLHPpGtKp7QyWmASC0upBvvB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495407351094-qlnihe92np5nupo4d92hvnks5ifmmr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
